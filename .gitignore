@@ -1,5 +1,14 @@
-# virtual environment folders
+# Virtual environments
 ai_projects/
 venv/
 .venv/
 env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
